@@ -1,10 +1,11 @@
-### Individual technical translations
+### blog
 
-welcome, here are some individual technical translations during my free time .   
-have a nice reading!!
+welcome, here are some articles written or translated during my free time .  
+read them on **Github issues**.  
+Have a nice reading!!
 
 [![点此阅读（have a nice reading!）](https://github.com/BrotherBeard/blog/blob/master/readNow.png)](https://github.com/BrotherBeard/Technical-Translations/issues)
-#### translations list:
+#### blog list:
 
 1. Containing Block 
 
