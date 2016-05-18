@@ -1,6 +1,6 @@
 ## blog
 
-[read now](https://github.com/BrotherBeard/Technical-Translations/issues)
+[read now~](https://github.com/Otobelikethee/blog/issues)
 
 ### ToTranslate
 
