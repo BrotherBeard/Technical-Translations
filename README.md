@@ -1,8 +1,8 @@
-## blog
+## 我的博客
 
-[read now~](https://github.com/Otobelikethee/blog/issues)
+[开始阅读](https://github.com/Otobelikethee/blog/issues)
 
-### ToTranslate
+### 翻译中
 
 |No|Article|Status|
 |-----------|:--------------:|:----------------:|
