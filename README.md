@@ -1,12 +1,10 @@
-## 我的博客
+## My Blog
 
-[开始阅读](https://github.com/Otobelikethee/blog/issues)
+[take a look](https://github.com/Otobelikethee/blog/issues)
 
-### 翻译中
+### Latest Reading
 
-|No|Article|Status|
-|-----------|:--------------:|:----------------:|
-|1|[Understanding JavaScript's 'undefined'](https://javascriptweblog.wordpress.com/2010/08/16/understanding-undefined-and-preventing-referenceerrors/)|waiting|
-|2|[How to Capture CSS3 Animation Events in JavaScript](https://www.sitepoint.com/css3-animation-javascript-event-handlers/)|waiting|
-|3|[why and how to bind methods in your react component classes](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
+* [Understanding JavaScript's 'undefined'](https://javascriptweblog.wordpress.com/2010/08/16/understanding-undefined-and-preventing-referenceerrors/)
+* [How to Capture CSS3 Animation Events in JavaScript](https://www.sitepoint.com/css3-animation-javascript-event-handlers/)
+* [why and how to bind methods in your react component classes](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
 
