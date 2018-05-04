@@ -13,3 +13,4 @@
 * [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
+* [es6 module more complicated than you think](https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/)
